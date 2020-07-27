@@ -8,4 +8,4 @@ npm start
 ```
 
 ## History
-Da uma olhada no link [Releases](https://reactflix-lemon.vercel.app/)
+Da uma olhada no link (https://reactflix-lemon.vercel.app/)
