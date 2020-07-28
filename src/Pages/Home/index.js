@@ -12,7 +12,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Agora todas as profissões estão sendo impactadas com essa nova Inteligência Artificial... literalmente não vai sobrar mais pra ninguém e nesse vídeo eu mostro várias demonstrações do GPT-3 sendo aplicado em diversos campos: Frontend com React, Layout e Design com Figma, Geração de gráficos, Queries SQL, Comandos no Terminal do Linux, Automação no Excel, tem de tudo! E eu reforço, nem nas minhas mais ousadas previsões sobre o futuro da programação ou tecnologia eu poderia imaginar que algo assim. Mas independente disso, ao final do vídeo eu dou minha sugestão do que um Programador deveria estudar daqui pra frente... qual conhecimento será a prova de bala."}
       />
 
       <Carousel
